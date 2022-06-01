@@ -52,4 +52,4 @@ Dr Peter MacPherson is an Academic Public Health Physician. He is a Wellcome Cli
 
 His research focuses on the development and evaluation of new health interventions to improve the diagnosis and treatment of priority public health diseases in low-resource settings.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/PM_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/cv/PM_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
