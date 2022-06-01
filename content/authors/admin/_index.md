@@ -1,49 +1,55 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I am an academic Public Health physician, specialising in randomised trials and the epidemiology of infectious disease.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: MFPH
+    institution: Faculty of Public Health, UK
+    year: 2019
+  - course: PhD in Population Health (Wellcome Clinical PhD Fellowship)
+    institution: Liverpool School of Tropical Medicine
+    year: 2013
+  - course: MRes
+    institution: University of Liverpool
+    year: 2010
+  - course: MPH
+    institution: Harvard University (Kennedy Scholar)
+    year: 2005
+  - course: MBChB (with Honors)
+    institution: University of Aberdeen
+    year: 2003
+email: "petermacp@gmail.com"
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Population health
+- Randomised controlled trials
+- Epidemiology
+- HIV and tuberculosis
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Liverpool School of Tropical Medicine
+  url: https://www.lstmed.ac.uk/
+role: Reader in Population Health
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/petermacp
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=VyW8nncAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
+  link: https://github.com/petermacp
+- icon: orcid
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://orcid.org/0000-0002-0329-9613
 superuser: true
-title: Nelson Bighetti
+title: Peter MacPherson
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr Peter MacPherson is an Academic Public Health Physician. He is a Wellcome Clinical Research Fellow, based full-time at the Malawi-Liverpool-Wellcome Programme in Blantyre, Malawi, where he leads the Public Health Research Group.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research focuses on the development and evaluation of new health interventions to improve the diagnosis and treatment of priority public health diseases in low-resource settings.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/PM_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
