@@ -5,8 +5,8 @@ education:
   - course: MFPH
     institution: Faculty of Public Health, UK
     year: 2019
-  - course: PhD in Population Health (Wellcome Clinical PhD Fellowship)
-    institution: Liverpool School of Tropical Medicine
+  - course: PhD in Population Health
+    institution: Liverpool School of Tropical Medicine (Wellcome Clinical PhD Fellowship)
     year: 2013
   - course: MRes
     institution: University of Liverpool
@@ -52,4 +52,4 @@ Dr Peter MacPherson is an Academic Public Health Physician. He is a Wellcome Cli
 
 His research focuses on the development and evaluation of new health interventions to improve the diagnosis and treatment of priority public health diseases in low-resource settings.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/cv/PM_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/cv/PM_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
