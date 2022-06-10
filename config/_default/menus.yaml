@@ -14,7 +14,7 @@ main:
     url: '#contact'
     weight: 60
   - name: CV
-    url: 'static/cv/PM_CV.pdf'
+    url: 'files/PM_CV.pdf'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
