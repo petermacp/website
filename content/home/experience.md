@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Current Positions
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,41 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Head of Public Health Research Group
+    company: Malawi-Liverpool-Wellcome Programme
+    company_url: 'https://www.mlw.mw/'
+    company_logo: mlw
+    location: Blantyre, Malawi
+    date_start: '2018-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: HIV & tuberculosis epidemiology, diagnostics, and clinical trials.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Wellcome Fellow and Reader
+    company: Liverpool School of Tropical Medicine
+    company_url: 'https://www.lstmed.ac.uk/'
+    company_logo: lstm
+    location: Blantyre, Malawi
+    date_start: '2009-08-01'
+    date_end: ''
+    description: Computer-aided diagnosis of tuberculosis on chest X-ray.
+
+  - title: Honorary Professor of Population Health
+    company: London School of Hygiene and Tropical Medicine
+    company_url: 'https://www.lshtm.ac.uk/'
+    company_logo: lshtm
+    location: Blantyre, Malawi
+    date_start: '2018-11-01'
+    date_end: ''
+    description: Clinical Research Department.
+    
+  - title: Honorary Consultant in Communicable Disease Control
+    company: UK Health Security Agency
+    company_url: 'https://www.gov.uk/government/organisations/uk-health-security-agency'
+    company_logo: ukhsa
+    location: North West England
+    date_start: '2017-08-01'
+    date_end: ''
+    description: Health protection and promotion.
 
 design:
   columns: '2'
