@@ -27,9 +27,9 @@ content:
   # Contact details (edit or remove options as required)
   email: petermacp@gmail.com
   address:
-    street: Liverpool School of Tropical Medicine
-    city: Liverpool
-    postcode: L3 5QA
+    street: School of Health & Wellbeing, University of Glasgow
+    city: Glasgow
+    postcode: G12 8RZ
     country: United Kingdom
     country_code: UK
   contact_links:

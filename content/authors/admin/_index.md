@@ -4,7 +4,7 @@ education:
   courses:
   - course: MFPH
     institution: Faculty of Public Health, UK
-    year: 2019
+    year: 2017
   - course: PhD in Population Health
     institution: Liverpool School of Tropical Medicine (Wellcome Clinical PhD Fellowship)
     year: 2013
@@ -25,9 +25,9 @@ interests:
 - Epidemiology
 - HIV and tuberculosis
 organizations:
-- name: Liverpool School of Tropical Medicine
-  url: https://www.lstmed.ac.uk/
-role: Reader in Population Health
+- name: School of Health & Wellbeing, University of Glasgow
+  url: https://www.gla.ac.uk/schools/healthwellbeing/
+role: Professor of Global Public Health
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,7 +48,7 @@ superuser: true
 title: Peter MacPherson
 ---
 
-Dr Peter MacPherson is an Academic Public Health Physician. He is a Wellcome Clinical Research Fellow, based full-time at the Malawi-Liverpool-Wellcome Programme in Blantyre, Malawi, where he leads the Public Health Research Group.
+Prof Peter MacPherson is an Academic Public Health Physician.
 
 His research focuses on the development and evaluation of new health interventions to improve the diagnosis and treatment of priority public health diseases in low-resource settings.
 

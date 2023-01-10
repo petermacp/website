@@ -22,13 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Professor of Global Public Health
+    company: University of Glasgow School of Health & Wellbeing
+    company_url: 'https://www.gla.ac.uk/schools/healthwellbeing/'
+    company_logo: uog
+    location: Glasgow, UK
+    date_start: '2023-01-04'
+    date_end: ''
+    description: HIV & tuberculosis epidemiology, diagnostics, and clinical trials.
+    
   - title: Head of Public Health Research Group
     company: Malawi-Liverpool-Wellcome Programme
     company_url: 'https://www.mlw.mw/'
     company_logo: mlw
     location: Blantyre, Malawi
     date_start: '2018-01-01'
-    date_end: ''
+    date_end: '2023-01-03'
     description: HIV & tuberculosis epidemiology, diagnostics, and clinical trials.
 
   - title: Wellcome Fellow and Reader
