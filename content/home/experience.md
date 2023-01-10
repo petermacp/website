@@ -30,24 +30,6 @@ experience:
     date_start: '2023-01-04'
     date_end: ''
     description: HIV & tuberculosis epidemiology, diagnostics, and clinical trials.
-    
-  - title: Head of Public Health Research Group
-    company: Malawi-Liverpool-Wellcome Programme
-    company_url: 'https://www.mlw.mw/'
-    company_logo: mlw
-    location: Blantyre, Malawi
-    date_start: '2018-01-01'
-    date_end: '2023-01-03'
-    description: HIV & tuberculosis epidemiology, diagnostics, and clinical trials.
-
-  - title: Wellcome Fellow and Reader
-    company: Liverpool School of Tropical Medicine
-    company_url: 'https://www.lstmed.ac.uk/'
-    company_logo: lstm
-    location: Blantyre, Malawi
-    date_start: '2009-08-01'
-    date_end: ''
-    description: Computer-aided diagnosis of tuberculosis on chest X-ray.
 
   - title: Honorary Professor of Population Health
     company: London School of Hygiene and Tropical Medicine
