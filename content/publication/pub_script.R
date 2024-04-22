@@ -3,6 +3,10 @@
 #' @author Lorenzo Busetto, phD (2017) <lbusett@gmail.com>
 #' @modified Peter Paul Pichler (2019) <pichler@pik-potsdam.de>
 
+
+#
+#https://r-craft.org/automatically-importing-publications-from-bibtex-to-a-hugo-academic-blog/
+
 bibtex_2academic <- function(bibfile,
                              outfold,
                              abstract = FALSE,

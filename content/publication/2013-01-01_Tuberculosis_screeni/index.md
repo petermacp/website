@@ -1,7 +1,7 @@
 +++
 title = "Tuberculosis screening in high human immunodeficiency virus prevalence settings: turning promise into reality [State of the art series. Active case finding/screening. Number 5 in the series]"
 date = "2013-01-01"
-authors = ["E. L. Corbett", "P. MacPherson"]
+authors = ["E. L. Corbett", "Peter MacPherson"]
 publication_types = ["2"]
 publication = "The International Journal of Tuberculosis and Lung Disease, (17), 9, _pp. 1125--1138_, https://doi.org/10.5588/ijtld.13.0117"
 publication_short = "The International Journal of Tuberculosis and Lung Disease, (17), 9, _pp. 1125--1138_, https://doi.org/10.5588/ijtld.13.0117"
