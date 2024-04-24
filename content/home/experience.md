@@ -41,11 +41,11 @@ experience:
     description: Clinical Research Department.
     
   - title: Honorary Consultant in Communicable Disease Control
-    company: UK Health Security Agency
-    company_url: 'https://www.gov.uk/government/organisations/uk-health-security-agency'
-    company_logo: ukhsa
-    location: North West England
-    date_start: '2017-08-01'
+    company: Public Health Scotland
+    company_url: 'https://publichealthscotland.scot'
+    company_logo: phs
+    location: Scotland
+    date_start: '2024-01-04'
     date_end: ''
     description: Health protection and promotion.
 

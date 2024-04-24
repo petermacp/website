@@ -2,7 +2,7 @@
 bio: I am an academic Public Health physician, specialising in randomised trials and the epidemiology of infectious disease.
 education:
   courses:
-  - course: MFPH
+  - course: FFPH
     institution: Faculty of Public Health, UK
     year: 2017
   - course: PhD in Population Health
