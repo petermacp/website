@@ -155,7 +155,7 @@ bibtex_2academic <- function(bibfile,
 }
 
 # Bibtex file in my directory
-my_bibfile <- "content/publication/academic-publications.bib"
+my_bibfile <- "content/publication/my_pubs.bib"
 # Where I want the markdown output to go
 outfold <- "content/publication"
 # Use the conversion function

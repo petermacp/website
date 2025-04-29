@@ -1,10 +1,10 @@
 +++
-title = "Protocol for a prospective cohort study of open tibia fractures in Malawi with a nested implementation of open fracture guidelines [version 1; peer review: awaiting peer review]"
+title = "Protocol for a prospective cohort study of open tibia fractures in Malawi with a nested implementation of open fracture guidelines"
 date = "2021-01-01"
-authors = ["AT Schade", "N Nyamulani", "LN Banza", "AJ Metcalfe", "A Leather", "JJ Madan", "DG Lallloo", "WJ Harrison", "P MacPherson"]
+authors = ["Alexander Thomas Schade", "Nohakhelha Nyamulani", "Leonard Ngoe Banza", "Andrew John Metcalfe", "Andrew Leather", "Jason J. Madan", "David G. Lallloo", "Williams James Harrison", "Peter MacPherson"]
 publication_types = ["2"]
-publication = "Wellcome Open Research, (6), 228, https://doi.org/10.12688/wellcomeopenres.17145.1"
-publication_short = "Wellcome Open Research, (6), 228, https://doi.org/10.12688/wellcomeopenres.17145.1"
+publication = "Wellcome Open Res, (6), _pp. 228_, https://doi.org/10.12688/wellcomeopenres.17145.1"
+publication_short = "Wellcome Open Res, (6), _pp. 228_, https://doi.org/10.12688/wellcomeopenres.17145.1"
 abstract = ""
 abstract_short = ""
 image_preview = ""
